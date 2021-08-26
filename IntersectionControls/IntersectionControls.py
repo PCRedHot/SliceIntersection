@@ -20,7 +20,7 @@ class IntersectionControls(ScriptedLoadableModule):
 		ScriptedLoadableModule.__init__(self, parent)
 		self.parent.title = "IntersectionControls"
 		self.parent.categories = [
-			"Slice"]
+			"Slice Control"]
 		self.parent.dependencies = []
 		self.parent.contributors = [
 			"Parry Choi (HKU)"]
